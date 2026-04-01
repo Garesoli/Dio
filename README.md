@@ -1,5 +1,7 @@
+
 Mapa de Habilidades
 Este entregável consolida o Mapa de Habilidades em três etapas, conforme orientação do material enviado. O conteúdo está estruturado para publicação em repositório GitHub (README.md) e posterior envio do link na plataforma.
+
 
 Etapa 1 – Inventário de Habilidades
 Objetivo: listar habilidades técnicas, comportamentais e conhecimentos aplicáveis.
